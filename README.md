@@ -1,4 +1,3 @@
-# Text Editor Starter Code
 # SVG Logo Maker
 
 ## Description
